@@ -12,6 +12,7 @@ This application was created by Jyrone Parker with help from
 ## Starting The App
 
 Download the repository, run composer, run gulp, run migrations.
+Run php vendor/bin/homestead make to install homestead files. Run vagrant up
 
 ## License
 
